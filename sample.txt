@@ -1,0 +1,16 @@
+
+
+with open(r'C:\Users\Anushree\PycharmProjects\Cisco_Internship\conversion.txt', 'w') as fp:
+            for item in address:
+                fp.write("%s\n" % item)
+
+192.0.2.146
+192.0.2.146
+192.4.1.153
+192.0.3.132
+192.4.2.56
+192.3.5.57
+191.5.2.01
+190.8.2.56
+190.7.7.121
+194.3.9.101
